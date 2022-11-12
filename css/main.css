@@ -302,7 +302,7 @@ top: -8px;
 }
 
 .service-icon {
-  border: 1px solid #0eb493;
+  border: 0px solid #0eb493;
   border-radius: 50%;
   color: #0eb493;
   float: left;
